@@ -1,8 +1,8 @@
 var playlist = new Object({keys: '0'});
 
-function updatePlayList(playList, Phil Ochs, "Here's to the State of Mississippi"){
+function updatePlayList(playList, artistName, songTitle){
  
- playList = {Phil Ochs, 
+ playList = {Phil Ochs : "Here's to the State of Mississippi"}
  
  return playList;
 }
