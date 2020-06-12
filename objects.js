@@ -1,1 +1,1 @@
-var playList = {Lizzo : 'Truth Hurts' };
+var playList = {lizzo : 'Truth Hurts' };
